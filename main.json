@@ -1,0 +1,74 @@
+{
+  "programming": [
+    "JavaScript",
+    "Python",
+    "Java",
+    "C++",
+    "C#",
+    "PHP",
+    "Ruby",
+    "Swift",
+    "Go",
+    "Rust"
+  ],
+  "movies": [
+    "The Shawshank Redemption",
+    "The Godfather",
+    "The Dark Knight",
+    "Interstellar",
+    "Memento",
+    "Prestige",
+    "Pulp Fiction",
+    "Parasite",
+    "Forrest Gump",
+    "Inception"
+  ],
+  "anime": [
+    "Attack on Titan",
+    "Death Note",
+    "Vinland Saga",
+    "Dragon Ball Z",
+    "Naruto",
+    "One Piece",
+    "Bleach",
+    "One punch man",
+    "My Hero Academia",
+    "Haikyuu!!"
+  ],
+  "countries": [
+    "Egypt",
+    "Saudi Arabia",
+    "Iraq",
+    "Yemen",
+    "Algeria",
+    "Morocco",
+    "Tunisia",
+    "Libya",
+    "Jordan",
+    "Lebanon"
+  ],
+  "people": [
+    "Albert Einstein",
+    "Leonardo da Vinci",
+    "Mahatma Gandhi",
+    "Nelson Mandela",
+    "Martin Luther King Jr.",
+    "Charles Darwin",
+    "Marie Curie",
+    "Galileo Galilei",
+    "William Shakespeare",
+    "Cleopatra"
+  ],
+  "games": [
+    "The Last of Us",
+    "The Elder Scrolls V: Skyrim",
+    "The Witcher Three: Wild Hunt",
+    "Dragon Age: Inquisition",
+    "Minecraft",
+    "Grand Theft Auto V",
+    "Red Dead Redemption Two",
+    "God of War",
+    "Overwatch",
+    "Sekiro: Shadows Die Twice"
+  ]
+}
