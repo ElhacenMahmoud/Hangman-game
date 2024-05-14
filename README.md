@@ -29,6 +29,10 @@ A fun and interactive Hangman game built with JavaScript, HTML, and CSS.
 2. Click on a letter to guess.
 3. Keep guessing until you win or run out of attempts.
 
+ **Screenshot**
+ ![Screenshot](https://github.com/ElhacenMahmoud/Hangman-game/assets/156904270/a43d198f-2f8b-4c3e-8eef-2e45a1eddaae)
+
+
 **Note**
 
 This game is a solo project and is not intended for commercial use. Feel free to modify and improve the game as you see fit!
